@@ -1,5 +1,5 @@
 AUTORES:
 
-     -Apaza Villca Cristofer Denilson
+    -Apaza Villca Cristofer Denilson
 
     -Dario Alejandro Vildoso Flores
